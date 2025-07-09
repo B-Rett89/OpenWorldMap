@@ -1,0 +1,34 @@
+# Unreal Engine: Ignored Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+
+# Unreal Build Files
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj*
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+*~
+*.bak
+*.swp
+*.tmp
+
+# CMake-related (if using)
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
