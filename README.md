@@ -1,6 +1,6 @@
 OpenWorldMap
 
-OpenWorldMap is a 1009x1009 open-world terrain designed in Unreal Engine 5.4.2.This is my first publicly shared map, uploaded to GitHub for version control and future development.
+OpenWorldMap is a 1009x1009 open-world terrain designed in Unreal Engine 5.4.2. This is my first publicly shared map, uploaded to GitHub for version control and future development.
 
 ✨ Features
 
