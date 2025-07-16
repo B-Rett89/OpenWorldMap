@@ -2,39 +2,26 @@ OpenWorldMap
 
 ![Project Screenshot](Saved/AutoScreenshot.png)
 
-OpenWorldMap is a 1009x1009 open-world terrain designed in Unreal Engine 5.4.2. This is my first publicly shared map, uploaded to GitHub for version control and future development.
+OpenWorldMap is a 1009x1009 open-world terrain designed in Unreal Engine 5.4.2. This is my first publicly shared map, built following SmartPoly's video lesson: https://www.youtube.com/watch?v=6_5_GiYgCis
 
 ✨ Features
 
 1009 x 1009 world size
 
-🌲 Forested areas (planned)
+🌲 Forested area
 
-🌾 Open plains (planned)
+🌾 Open plains 
 
-⛰️ Mountain terrain (bare shape in place)
+⛰️ Mountain terrain
 
-🌊 Coastal and sea regions (planned)
+🌊 Coastal regions 
 
-This project currently includes the bare landscape shape only — no textures, water, foliage, or other content has been added yet. It serves as a base for future open-world map development and iteration.
+_________________________
 
-💡 Development Notes
-
-Created entirely in Unreal Engine 5.4.2
-
-First map ever uploaded to GitHub
-
-Project is under development
-
-🚀 Getting Started
+Learn to make your own maps visit SmartPoly's channel: https://www.youtube.com/@SmartPoly
 
 Clone the project with:
 
 git clone git@github.com:B-Rett89/OpenWorldMap.git
 
 Then open the project in Unreal Engine 5.4.2.
-
-📌 Status
-
-Early-stage layout is complete with terrain shape blocked in. Further development will include materials, water bodies, foliage,  and polish.
-
